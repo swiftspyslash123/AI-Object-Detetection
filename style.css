@@ -8,3 +8,7 @@ canvas{
     margin-top: 130px;
     box-shadow: 5px 5px 5px rgb(11, 46, 59)
 }
+
+.heading{
+    font-size: 25px;
+}
